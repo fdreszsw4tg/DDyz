@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "DDyz",
+  "description": "DDyz",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/fdreszsw4tg/DDyz",
+  "repository": "https://github.com/fdreszsw4tg/DDyz",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
